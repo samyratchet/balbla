@@ -1,0 +1,7 @@
+name: Blabla
+version: ${project.version}
+main: com.degitise.samyratchet.blabla.Main
+api-version: 1.13
+authors: [Samyratchet]
+description: BLAAA
+website: www.degitise.com
