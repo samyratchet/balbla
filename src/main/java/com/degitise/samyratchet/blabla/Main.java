@@ -8,6 +8,7 @@ public final class Main extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         System.out.println("samyratchet");
+        System.out.println("Ik wou toch Noot Noot");
     }
 
     @Override
